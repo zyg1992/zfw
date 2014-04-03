@@ -1,5 +1,6 @@
 <?php
 
+
 define("APP_PATH", dirname(__FILE__));
 define("CONFIG_PATH", APP_PATH . '/conf');
 
