@@ -11,9 +11,6 @@ class DaoModel
 	{
 		$conf = new Yaf_Config_Ini(CONFIG_PATH . '/application.ini');
 		//在这里连接数据库
-		/**
-		 * ...
-		 */
 	}
 	
 	public function __clone()
